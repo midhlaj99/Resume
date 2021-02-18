@@ -1,0 +1,14 @@
+.addmore{
+    cursor: pointer;
+    
+}
+.addmore:hover{
+    color: blue;
+}
+
+.remove{
+    cursor: pointer;
+}
+.remove:hover{
+    color: red;
+}

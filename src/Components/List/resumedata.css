@@ -1,0 +1,42 @@
+.data{
+    width: 100%;
+    height: auto;
+    border: 1px solid #333;
+    border-radius: 5px;
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 5px 0px;
+}
+.data:hover{
+    border-color: #6495ED;
+    cursor: pointer;
+}
+.name{
+    font-size: 20px;
+    font-weight: bold;
+}
+.exp{
+    display: flex;
+    flex-direction: column;
+    margin: 5px 0px;
+    border-radius: 5px;
+    word-wrap: break-word;
+}
+.edc{
+    display: flex;
+    flex-direction: column;
+    margin: 5px 0px;
+    border-radius: 5px;
+    word-wrap: break-word;
+
+}
+.skills{
+    width: 100%;
+    height: auto;
+    word-wrap: break-word;
+}
+
+.head{
+    font-size: 17px;
+    color: gray;
+}
